@@ -1,0 +1,28 @@
+C:\Users\tomal\Documents\dev_area_local\p4>python --version
+Python 3.9.1
+
+C:\Users\tomal\Documents\dev_area_local\p4>python exercise.py
+
+Testing with list = [5, 100, 10, 125, 15, 150, 20, 175, 25, 0]
+Expected #1 & #2 = 175, 150
+Actual #1 & #2 = 175, 150
+Test PASSED
+
+Testing with list = [25, 93, 97, 18, 71, 114, 52, 48]
+Expected #1 & #2 = 114, 97
+Actual #1 & #2 = 114, 97
+Test PASSED
+
+Testing with list = [-2, 0, 1, 2, 2, 1]
+Expected #1 & #2 = 2, 1
+Actual #1 & #2 = 2, 1
+Test PASSED
+
+Testing with list = [5, 5]
+Expected #1 & #2 = 5, None
+Actual #1 & #2 = 5, None
+Test PASSED
+
+Testing with list = [3]
+Caught exception as expected - test PASSED
+
